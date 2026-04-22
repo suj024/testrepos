@@ -1,5 +1,0 @@
-hi iam second developer,
-class register:
-  def register():
-  .....
-
